@@ -1,0 +1,2 @@
+Graphic Random Walk :
+In this we have created three balls with different color and random value is generated and the ball is made to move in that random value and a check is made based on the frame width and the random value is reversed to make the ball inside the frame. 
